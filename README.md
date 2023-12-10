@@ -8,7 +8,7 @@ A simple file encryption tool written in Rust, utilizing ChaCha20Poly1305 for ke
 
 ```bash
 git clone https://github.com/CTFcrozone/RustCryptor.git
-cd RustCryptor
+cd RustCryptor-main
 ```
 2. Build the project:
 
